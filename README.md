@@ -4,7 +4,7 @@ A modern UI Automation Testing Framework built with **Python**, **Playwright**, 
 
 This project demonstrates best practices for building scalable, maintainable, and reusable UI automation frameworks suitable for real-world applications.
 
-<a hreaf="https://galmatalon.github.io/playwright-python-60/" >Click here to view Allure Report</a>
+<a href="https://galmatalon.github.io/playwright-python-60/" >Click here to view Allure Report</a>
 ---
 
 # 🚀 Technologies
